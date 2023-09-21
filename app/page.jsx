@@ -7,9 +7,8 @@ const Home = () => {
       {/* .padding{
           sm:px-16 px-8 sm:py-24 py-12
         } */}
-      <section className='xl:padding-1 wide:padding-r padding-b'>
+      <section className='xl:padding-l wide:padding-r padding-b'>
         <Hero />
-
       </section>
       <section className='padding'>
         <PopularProducts />
