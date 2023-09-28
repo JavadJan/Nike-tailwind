@@ -5,7 +5,7 @@ import { products } from "@constants"
 
 const PopularProducts = () => {
   return (
-    <section className="max-container max-sm:mt-12">
+    <section id="products" className="max-container max-sm:mt-12">
       <header>
         <h1 className="text-[45px] font-palanquin font-bold">Our <span className="text-coral-red">popular</span> products</h1>
         <p className="mt-4 text-gray-400 max-sm:whitespace-wrap">

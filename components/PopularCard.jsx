@@ -6,7 +6,6 @@ const PopularCard = ({ imgURL, name, price }) => {
         <div className="flex flex-col gap-3">
             <div className="p-3 bg-card bg-cover bg-center rounded-lg">
                 <Image
-
                     src={imgURL} width={200} height={130}
                 />
             </div>
