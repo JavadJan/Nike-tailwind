@@ -13,7 +13,7 @@ const Hero = () => {
             <div className="relative lg:w-3/6 xl:w-2/5 flex flex-col justify-center pl-12 items-start w-full max-xl:padding-x pt-28 max-sm:border-3">
                 <p className="text-xl font-montserrat text-coral-red">Our Summer Collection</p>
                 <h1 className="mt-10  font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold">
-                    <span className="lg:bg-white  lg:whitespace-nowrap relative pr-10">The new Arrival</span>
+                    <span className="z-50 lg:bg-white  lg:whitespace-nowrap relative pr-10">The new Arrival</span>
                     <br />
                     <span className="text-red-600 inline-block mt-3">Nike</span>
                     Shoes
